@@ -1,0 +1,5 @@
+[
+    {"id": 1, "name": "Football", "available": true},
+    {"id": 2, "name": "Basketball", "available": true},
+    {"id": 3, "name": "Tennis Racket", "available": true}
+]
